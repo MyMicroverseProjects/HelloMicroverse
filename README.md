@@ -60,38 +60,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [your_project_name] <a name="about-project">HelloMicroverse</a>
 
-> Describe your project in 1 or 2 sentences.
+Learning how to install the different dependencies needed by the required linters required by Microverse
 
 **[your_project__name]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
 <!-- Features -->
 
@@ -99,9 +74,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[it has an index.html]**
+- **[it has an style.css without errors]**
+- **[it has installed the required dependencies to make the linter for html and css to work properly]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +86,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://github.com/MyMicroverseProjects/HelloMicroverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,8 +95,14 @@ After you're finished please remove all the comments and instructions!
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
+
+- clone the repository 
+- open the terminal where the repository was cloned
+- npm i
+- make a cool website using html and css 
+- format the document with the commands npx hint . && npx stylelint "**/*.{css,scss}"
+
 
 ### Prerequisites
 
@@ -207,9 +188,10 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/xandro2021)
+- Twitter: [@twitterhandle](https://twitter.com/xandro2021)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-salazar-ba0ba7255/)
+- Mastodon: [@Mastodon] (https://uiuxdev.social/@xandrocastro)
 
 👤 **Author2**
 
@@ -225,7 +207,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
+- [ ] **[N/A]**
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]**
 
@@ -257,7 +239,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for sharing the templates to set the linters...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
