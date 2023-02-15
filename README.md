@@ -1,36 +1,8 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>HelloMicroverse</b></h3>
 
 </div>
 
@@ -60,19 +32,28 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project">HelloMicroverse</a>
+# 📖  <a name="about-project">HelloMicroverse</a>
 
-Learning how to install the different dependencies needed by the required linters required by Microverse
+HelloMicroverse is an instroductory project to learn how to install the required linters used in Microverse. It is the first project which goes under the name of: Set up a "Hello Microverse" project.
+The goal here is to master all of the tools and best practices I learned about in previous steps.
+I will be using them in all Microverse projects and most likely in your future job as well, so it is important I know how to set and used these tools
 
-**[your_project__name]** is a...
+objectives:
+- Create branches with different base branches.
+- Understand the concept of version control.
+- Follow GitHub flow.
+- Open pull requests in GitHub.
+- Write descriptive, easy to understand commit messages.
+- Write short, detailed, easy to understand descriptions of pull requests.
+- Write a descriptive and easy to understand README in business English for every project submitted.
+- Demonstrate an ability to submit a project for code review.
 
+More Information about the instructions on https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/hello_microverse_project.md
 ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[it has an index.html]**
 - **[it has an style.css without errors]**
@@ -84,8 +65,6 @@ Learning how to install the different dependencies needed by the required linter
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://github.com/MyMicroverseProjects/HelloMicroverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,9 +72,6 @@ Learning how to install the different dependencies needed by the required linter
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-To get a local copy up and running, follow these steps.
 
 - clone the repository 
 - open the terminal where the repository was cloned
@@ -184,20 +160,13 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/xandro2021)
 - Twitter: [@twitterhandle](https://twitter.com/xandro2021)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-salazar-ba0ba7255/)
-- Mastodon: [@Mastodon] (https://uiuxdev.social/@xandrocastro)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Mastodon: [Mastodon](https://uiuxdev.social/@xandrocastro)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,11 +174,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[N/A]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Create a paragraph]**
+- [ ] **[Change color to the paragraph]**
+- [ ] **[Create an order list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,9 +194,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project buy me a coffee :D
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,27 +203,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank Microverse for sharing the templates to set the linters...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
