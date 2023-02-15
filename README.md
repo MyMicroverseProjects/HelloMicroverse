@@ -161,7 +161,7 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Author1: Alejandro Salazar Castro**
 
 - GitHub: [@githubhandle](https://github.com/xandro2021)
 - Twitter: [@twitterhandle](https://twitter.com/xandro2021)
